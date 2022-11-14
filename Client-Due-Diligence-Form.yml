@@ -1,0 +1,131 @@
+name: Wang Yu Wang Client Due Diligence Form
+description: Wang Yu Wang Client Due Diligence
+title: "[Wang Yu Wang Client Due Diligence Form]:"
+labels: ["DataCap", "Client"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this form!
+  - type: input
+    id: name
+    attributes:
+      label: name
+      description: What is your name?
+      placeholder: e.g.Dwayne Johnson
+    validations:
+      required: true
+  - type: input
+    id: Affiliated-organization
+    attributes:
+      label: Affiliated organization
+      description: What is your affiliated organization?
+      placeholder: e.g. xxx Ltd. 
+    validations:
+      required: true
+  - type: input
+    id: Registration-number
+    attributes:
+      label: Registration number
+      description: What is your Registration number?
+      placeholder: 
+    validations:
+      required: true
+  - type: input
+    id: Country
+    attributes:
+      label: Jurisdiction of Organization
+      description: Where are your organization located?
+      placeholder: e.g. American
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: true
+  - type: input
+    id: principal-business
+    attributes:
+      label: principal business
+      description: Please describe the principal business.
+      placeholder: 
+    validations:
+      required: true
+  - type: input
+    id: 
+    attributes:
+      label: DataCap requested for allocation
+      description: 
+      placeholder: 
+    validations:
+      required: true
+  - type: input
+    id: 
+    attributes:
+      label: The sample of the data
+      description: Can you share a sample of the data? A link to a file, an image, a table, etc., are good ways to do this.
+      placeholder: 
+    validations:
+      required: true
+  - type: input
+    id: 
+    attributes:
+      label: Sources of the data
+      description: Please describe the sources of the data to be stored on Filecoin.
+      placeholder: 
+    validations:
+      required: true
+  - type: input
+    id: 
+    attributes:
+      label: Ownership of data
+      description: Whether you own the data?
+      placeholder: 
+    validations:
+      required: true
+  - type: input
+    id: 
+    attributes:
+      label: Confidentiality
+      description: Whether the data to be stored on Filecoin is subject to confidentiality, trade secret, national secrets or national security?
+      placeholder: 
+    validations:
+      required: true
+  - type: input
+    id: 
+    attributes:
+      label: Nodes of the Filecoin miners
+      description: Nodes of the Filecoin miners to which you expect to place storage orders in spending the allocated DataCap.
+      placeholder: 
+    validations:
+      required: true
+  - type: input
+    id: 
+    attributes:
+      label: In which geographies (countries, regions) do you plan on making storage deals?
+      description: 
+      placeholder: 
+    validations:
+      required: true
+  - type: input
+    id: 
+    attributes:
+      label: How do you plan on choosing the storage providers?
+      description: 
+      placeholder: 
+    validations:
+      required: true
+  - type: input
+    id: 
+    attributes:
+      label: On-chain address for first allocation.
+      description: 
+      placeholder: 
+    validations:
+      required: true
