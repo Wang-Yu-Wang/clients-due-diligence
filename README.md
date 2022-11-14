@@ -20,4 +20,8 @@ According to the form, fill in the following information.
 
 <img src="images/5.jpg" alt="5" width="70%" height="70%">
 
- Clients are required to fill out a form that includes information such as the client's subject name, jurisdiction of the subject, registration number, business location, contact person and title, email address, main business description, and the Datacap quota applied for, which will serve as the basis for our initial assessment of whether the client meets the requirements.
+Secondly,Clients are required to fill out a form that includes information such as the client's subject name, jurisdiction of the subject, registration number, business location, contact person and title, email address, main business description, and the Datacap quota applied for, which will serve as the basis for our initial assessment of whether the client meets the requirements.
+
+Third,for clients who pass the preliminary investigation, we will conduct a deeper due diligence, including information such as the main registration certificate, proof of main business address, etc. These inconvenient information we need the client to send to our email, we understand that clients have concerns about the leakage of the main information, so we will sign a confidentiality agreement with the client, see link for details.
+
+Fourth,after the client has passed all the verifications, we will grant the client DataCap in stages, which will be consistent with the Fil+ rules.
