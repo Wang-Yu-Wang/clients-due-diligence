@@ -25,3 +25,5 @@ Secondly,Clients are required to fill out a form that includes information such 
 Third,for clients who pass the preliminary investigation, we will conduct a deeper due diligence, including information such as the main registration certificate, proof of main business address, etc. These inconvenient information we need the client to send to our email, we understand that clients have concerns about the leakage of the main information, so we will sign a confidentiality agreement with the client, see link for details.
 
 Fourth,after the client has passed all the verifications, we will grant the client DataCap in stages, which will be consistent with the Fil+ rules.
+
+<img src="images/6.jpg" alt="6" width="70%" height="70%">
